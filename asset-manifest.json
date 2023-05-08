@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/CAM-Ads/static/css/main.073c9b0a.css",
-    "main.js": "/CAM-Ads/static/js/main.08c81f08.js",
+    "main.css": "/CAM-Ads/static/css/main.82080dbd.css",
+    "main.js": "/CAM-Ads/static/js/main.33399113.js",
     "static/js/787.f1f52446.chunk.js": "/CAM-Ads/static/js/787.f1f52446.chunk.js",
-    "static/media/logo.svg": "/CAM-Ads/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Logo.svg": "/CAM-Ads/static/media/Logo.4cbbc50cd9037b8db2d2e77dbe665639.svg",
+    "static/media/Protect.mp4": "/CAM-Ads/static/media/Protect.2e46576a01b015e14019.mp4",
+    "static/media/Safeguard.mp4": "/CAM-Ads/static/media/Safeguard.fd724cfcca4e656ab742.mp4",
+    "static/media/SaveMoney.mp4": "/CAM-Ads/static/media/SaveMoney.ed47c36caf4cd20db81e.mp4",
     "index.html": "/CAM-Ads/index.html",
-    "main.073c9b0a.css.map": "/CAM-Ads/static/css/main.073c9b0a.css.map",
-    "main.08c81f08.js.map": "/CAM-Ads/static/js/main.08c81f08.js.map",
+    "main.82080dbd.css.map": "/CAM-Ads/static/css/main.82080dbd.css.map",
+    "main.33399113.js.map": "/CAM-Ads/static/js/main.33399113.js.map",
     "787.f1f52446.chunk.js.map": "/CAM-Ads/static/js/787.f1f52446.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.08c81f08.js"
+    "static/css/main.82080dbd.css",
+    "static/js/main.33399113.js"
   ]
 }
